@@ -1,9 +1,9 @@
-Recorder by opencv3.10
+Video Recorder by opencv3.10
 
 Platform:
-os:windows x64 
-compiler:vs2015
-opencv:3.10
+os:windows x64; 
+compiler:vs2015;
+opencv:3.10;
 
 Usage:
 input :camera
